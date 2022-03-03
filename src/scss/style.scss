@@ -1,0 +1,10 @@
+// Пример использования алиаса для путей картинок
+//   background: url("@img/cover.jpg") 0 0 no-repeat;
+// Добавление шрифтов
+@import "fonts";
+// Добавление обнуляющих стилей
+@import "null";
+
+// Секция HEADER
+@import "header";
+
